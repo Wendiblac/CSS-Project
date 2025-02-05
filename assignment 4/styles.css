@@ -22,6 +22,7 @@ body {
   box-sizing: border-box;
   background-color: #f6fcfb;
   font-family: "Sofia Sans", sans-serif;
+  max-width: 100%;
 }
 
 .home-button {
@@ -203,7 +204,7 @@ footer {
   font-size: 14px;
   text-align: right;
   color: #000000;
-  margin: -4% 13.5% 0 0;
+  margin-right: 150px;
 }
 
 /* Anchor tags: Terms & C and Privacy policy */
@@ -267,7 +268,7 @@ footer {
   }
 
   .form-submit {
-    margin: 0;
+    margin-bottom: 20px;
   }
 
 }

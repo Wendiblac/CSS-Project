@@ -54,6 +54,7 @@ body {
   font-family: "Lato", sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  max-width: 100%;
 }
 
 /* ============== Navigation bar: Logo and Nav links ============== */
@@ -63,6 +64,7 @@ body {
   padding: 16px 80px;
   justify-content: space-between;
   box-shadow: var(--shadow-x-axis);
+  max-width: 100%;
 }
 
 .nav__links {
@@ -113,6 +115,7 @@ main {
   align-items: center;
   height: 100vh;
   margin-top: -10%;
+  max-width: 100%;
 }
 
 main .checkout {
