@@ -20,6 +20,7 @@ section h1 {
    justify-self: center;
     max-width: 100%;
     display: block;
+    margin-top: 200px;
 }
 
 .highlight {
@@ -27,7 +28,7 @@ section h1 {
     color: rgb(131, 4, 137);
     font-style: oblique;
     font-family: tan parfait;
-    font-size: 50px;
+    font-size: 75px;
     text-decoration: underline;
     text-align: justify;
     max-width: 100%;
